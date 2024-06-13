@@ -1,0 +1,599 @@
+Batch : 18 - Manual + Selenium with Java
+
+Good Morning All
+
+Class is going to be starts at  7:10 AM
+
+Demo Topics : 
+
+=======================Day 1================================
+
+->Introduction about myself
+
+             Myself Raju, 10+ years of exp, 5 yrs (Training students on courses)
+
+->Course Duration + Syllabus
+
+             2 Months
+
+Advantages or Benfits of Course:
+
+1) Recordings sessions for every class : 
+2) MOCK INTERVIEWS
+3) Well structured Documents
+4) Resume preparation
+5) How to apply for jobs, How you get scheduled for interviews
+6) Openings in company
+
+Course Timings : 7AM to 8AM (Only on Weekdays)
+
+
+Automation:
+
+Tool : Selenium/webdriver/cypress
+Editor : Eclipse
+Programing : Java
+Build : Maven
+VCS  : GIT
+CRS : Github/Bitbucket/Jfrog
+Frameworks : TestNG & Cucumber
+Projects : Swagslab
+
+
+=======================Day 2================================
+
+Good Morning All
+
+Class is going to be starts at  7:10 AM
+
+SDLC : Software Devlopment life cycle
+
+
+SDLC                                                      Biryani
+
+Devlop a software                                 procedure to cook
+Models based on projects                          Based on intrest we can cook varients 
+RA,FS,Design,Coding,Testing,Dep,Main              -------------------------------
+
+
+
+Requirement Analysis : CRS
+Feasibility Study : Finance,Technology,Resource
+Design : HLD & LLD
+Coding
+Testing
+Deployment
+Maintenance
+
+
+=======================Day 3================================
+
+Good Morning All
+
+Class is going to be starts at  7:10 AM
+
+Software Devlopment Life Cycle :
+
+It is a process or method used while devloping a software:
+
+Phases:
+
+Requirement Analysis
+Feasibility study
+Design
+Coding
+Testing
+Deployment
+Maintenance
+
+what is meant by SDLC
+What are the phases available in SDLC
+What are types of SDLC Models
+
+
+CRS : Customer Requirement Specification
+SRS : Software Requirement Specification
+ 
+=======================Day 4================================
+
+Good Morning All
+
+Class is going to be starts at  
+
+
+SDLC Models : Iterative Models
+
+1) Spiral Model
+2) Agile Model (90 - 95% current market)
+
+
+Spiral Model:
+
+200 features
+
+MA = 50f
+Mb = 50f
+Mc = 50f
+Md = 50f
+
+
+a = R,D,C,Ta
+b = R,D,C,Ta-Tb-Ta+b
+c = R,D,C,Ta-Tb-Tc-Tab-Tbc-Tac-Tabc
+d = R,D,C,Ta-Tb-Tc-Td-Tab-Tbc-Tcd-Tda-Tabc-Tbcd-Tcda-Tabcd
+
+
+Agile methodoligy:
+
+PI Meeting: Zomato; 120 features : 6 months : 12 sprints
+
+Scrum master
+Product owner
+Bussiness Anaylst
+Devloper
+Tester
+
+15 days or 2 weeks work is called it as a Sprint
+10 features / sprint.
+
+1st may to 15th may : 10 features
+
+Backlog 
+Ready for Dev
+Dev review
+Ready for QA
+QA in Progress
+Demo to PO
+release
+
+3 sprints completed
+4th sprint, 
+
+
+=======================Day 5================================
+
+Good Morning All
+
+Class is going to be starts at  7:10 AM
+
+Black Box & White Box Testing
+
+1)Verify Loginpage with valid username & Valid paswd
+2)Verify Login page with valid username & invalid pswd
+3)Verify Login page with invalid username & valid password
+4)Verify Login page with invalid username & invalid pswd
+
+System Testing
+
+Levels of testing
+
+=======================Day 6================================
+
+Good Morning All
+
+Class is going to be starts at  7:10 AM
+
+
+Error,Bug,Failure
+Project,Product
+QA,QC,QE
+Smoke, Sanity
+Retesting,Regression
+Bug life cycle									
+										
+
+Staging - pre-prod - prod
+Qa  - Prelive - live
+
+
+Customer -> BA or PO -> SCRUM
+
+
+Smoke Vs Sanity.
+
+
+1st may : software which consists 50 features.
+2nd may : 5 more featues to existing code 50 features. 5+50 = 55 : 4 bugs & reported in jira
+55 + 4 bugs new codes : 
+
+
+=======================Day 7================================
+
+Good Morning All
+
+Class is going to be starts at  7:10 AM
+
+Test Design Techniques : To write testcases or test design, we are using techniques
+i) Equavalent class partitioning : <100, >100 & <300, >300
+ii)Boundary value analysis
+iii) State transition testing
+iV) Pairwise testing
+v) Error guesing testing
+
+Traceability Matrix
+Types of Testing
+Severity
+Priority
+Bug age
+STLC
+Test Report
+RetroM										
+										
+=======================Day 8================================
+
+Good Morning All
+
+Class is going to be starts at  7:10 AM
+
+Testrail/Testlink/Xray : Test Management tool
+
+How to create testrail account ? : Completed
+How to create project in testrail account ? : Completed
+How many types of dashboards are available ? : Completed
+How to give project access to your teammetes ? : Completed
+How to import testcaes whic are written in exel or csv file : Completed
+How to export testcases ? : Completed
+How to changes testcases status ? : Completed
+How to create test packs : Completed
+How to create testcases ? : Completed
+
+=======================Day 9================================
+
+Good Morning All
+
+Class is going to be starts at  7:10 AM
+
+JIRA/Bugzilla : Bug tracking tool
+
+
+One Bug :
+
+Validating login page with valid username & pswd.
+Incorrect username or pswd error
+
+=======================Day 10================================
+
+Good Morning All 
+Class is going to be starts at  7:10 AM
+
+
+Orange HRM : Human Resource Management.
+
+Domains : Gaming,Financial,Banking,HRM,Hospital,Investment
+
+
+TestScenario : Tree
+Testcase : Branches
+
+Login page : Test scenario
+Valid U & P : Testcase
+Valid U & Invalid P : Testcases
+
+=======================Day 11================================
+
+Good Morning All 
+Class is going to be starts at  7:10 AM
+
+API Testing										
+Introduction to API										
+API Methods										
+API Vs Webservices	
+
+
+200 Series : Success
+300 Series : Redirectional msg
+400 Series : Client errors, 403 error
+500 Series : Server error , 501 server unreacheable
+									
+API Testing
+API Methods : GET,PUT,POST,DEL
+Webservice: REST,RPC,SOAP
+How to validate API in Postman
+Error Codes
+
+=======================Day 11================================
+
+Good Morning All 
+Class is going to be starts at  7:10 AM
+
+Postman Exploration										
+API validations through POSTMAN	
+
+
+================================automation classes===============================
+=======================Day 1================================
+
+Good Morning All 
+Class is going to be starts at  7:05/10 AM
+
+Testing :
+1) Manual Testing
+2) Automation Testing
+
+Situation / Scenario :
+
+CASE 1 :
+
+1000 testcases : 5 Testers are in Team : 2/month : 24 times
+
+MT : 8 days : 24*8 = 192 days
+AT : 30 days + 10 mins *24 = 30 + 4 hrs = 30 days 4 hrs.
+
+CASE 2 :
+
+1000 testcases : 5 Testers are in Team : 1/ 6 month : 2 times
+
+MT : 8 days : 2*8 = 16 days
+AT : 30 Days + 10mun *2 = 30 days 2omin
+
+
+Variables
+Datatypes
+
+=======================Day 2================================
+
+Good Morning All 
+Class is going to be starts at  7:05/10 AM
+
+SDLC/ATLC
+Operators
+Eclipse Installation & Exploration
+
+
+SDLC : Software Devlopment life cycle
+
+Requirement Analysis
+Feasibility Study
+Design
+Coding
+Testing
+Deployment
+Maintenance
+
+
+Two types of SDLC Models :
+They are :
+
+1) Sequence Models : Waterfall,V-model
+2) Iterative models : Agile , spiral
+
+Automation Testing life cycle.
+
+Test tool selection : Selenium
+Scope of automation : Do's & Don'ts
+Planning : How many features /testcases are going to designed
+design : designing the skeletons for planned testcases
+devlop/coding : Devloping scripts
+Execution : executed the designed testcases
+Maintenace : maintain testcases.
+
+
+=======================Day 3================================
+
+Good Morning All 
+Class is going to be starts at  7:05/10 AM
+
+Eclipse Exploration
+Arrays
+
+int a[] = new a[10];
+a[0] = 24;
+a[1] = 25;
+.
+.
+.
+.
+.
+.
+.
+a[9] = 35;
+
+=======================Day 4================================
+
+Good Morning All 
+Class is going to be starts at  7:05/10 AM
+
+									
+Conditional Statements/ selective statements/ Branching statements :
+
+if
+if else
+if else if
+nested if
+switch
+
+=======================Day 5================================
+
+Good Morning All 
+Class is going to be starts at  7:05/10 AM
+
+Testing : Manual Testing & Automation Testing
+
+Automation Testing :
+
+Selenium : Tool
+Java     : OOPS
+Editor   : Eclipse
+Framework: TestNG,Cucumber
+VCS      : GIT/SVN
+Build To : Maven
+CRS      : Github/Bitbucket/Jfrog
+
+Loop statements / Iterative statements :
+
+For Loop:
+
+for(initialise;condition;incr/decre){
+statements:
+}
+
+While Loop
+
+intialise; //int i = 1;
+while(condition){ //i<=10
+statements;
+i++ //increment
+}
+
+Do while loop
+
+int i = 1;
+do{
+statements;
+i++
+}
+while(i<=10);
+
+
+Nested for loop :
+
+for(inin;cond;in/dec)
+{
+for(init;cond;inc/dec)
+{
+statements
+}
+}
+
+continue:
+Particular iteration is skiped & remaining iteraions are executed
+Break:
+upto particular iteration is executed & program is exit.
+
+=======================Day 5================================
+
+Good Morning All 
+Class is going to be starts at  7:35 AM
+
+=========================Classes : Class is a group of objects having similar objects.
+Class Student{
+string sname = "ajay";
+sname.touppercase()
+int rollno  = 234;
+char grade = 'A';
+//addition//
+void addition(int a int b){
+int c = a+b;
+System.out.println(c);
+}
+}
+=========================Object : Representing a instance of class
+main(){
+Student std = new Student();
+std.sname;
+std.rollno;
+std.grade;
+std.addition(3,4)
+}
+
+Constructor
+Strings
+Functions
+
+=======================Day 6================================
+
+Good Morning All 
+Class is going to be starts at  7:10 AM
+
+Inheritance
+
+======Single Inheritance :=====
+class class B extends class A:
+{
+}
+======Multi level:===========
+class class B extends class A:
+{
+}
+class class C extends class B:
+{
+}
+=======Hierarichal============
+class class B extends class A:
+{
+}
+class class c extends class A:
+{
+}
+=======multiple===============
+class class c extends class A:
+{
+}
+class class c extends class B:
+{
+}
+========Hybrid===============
+class class B extends class A:
+{
+}
+class class C extends class A:
+{
+}
+class class D extends class B class c :
+{
+}
+
+
+Polymorphism
+
+Poly + Morph
+
+Many + form
+
+Abstraction
+
+=======================Day 7================================
+
+Good Morning All 
+Class is going to be starts at  7:10 AM
+
+Encapsulation
+Exception Handling
+
+Assignment :
+
+1) Write a java program to print prime numbers from 20 to 70 range
+2) Write a java program to addition without using + operator
+3) Write a javaprogram to swap two numbers without using third variable
+4) Write a javaprogram to print below pattern.
+
+ * * * * *
+  * * * 
+   * *
+    *
+
+
+=======================Day 8===================================
+Good Morning All 
+Class is going to be starts at  7:10 AM
+
+Interface
+Collections
+
+=======================Day 9===================================
+Good Morning All 
+Class is going to be starts at  7:30 AM
+
+Assignments validations
+
+=======================Day 10===================================
+Good Morning All 
+Class is going to be starts at  7:05 AM
+
+File Handling, Debugging in Eclipse
+
+=======================Day 11===================================
+Good Morning All 
+Class is going to be starts at  7:10 AM
+
+GIT & Github
+
+GIT : Version Control System.
+GITHUB : Central repository system
+
+=======================Day 12===================================
+Good Morning All 
+Class is going to be starts at  7:10 AM
+
+Github 
+GITHUB : Central repository system
